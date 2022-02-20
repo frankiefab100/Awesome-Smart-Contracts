@@ -4,7 +4,7 @@ pragma solidity ^0.6.6;
 
 /**
  * @title Bank Contract
- * @dev Frankiefab100
+ * @author Franklin Ohaegbulam (@Frankiefab100)
  */
  
 contract Bank{

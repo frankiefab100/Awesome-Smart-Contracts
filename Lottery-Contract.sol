@@ -4,7 +4,7 @@ pragma solidity >=0.7.0 <0.9.0;
 
 /**
  * @title Lottery Contract
- * @dev Frankiefab100
+ * @author Franklin Ohaegbulam (@Frankiefab100)
  */
 contract Lottery {
 
